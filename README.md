@@ -1,4 +1,4 @@
-# Nebulights
+# Nebulights Privacy Policy
 
 Nebulights uses your microphone to listen to the audio around you to make the lights respond to music.  
 
